@@ -31,4 +31,4 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_YOUTHTALK_B88C4 }}
           channelId: live
           projectId: youthtalk-b88c4
-          entryPoint: build/web 
+          entryPoint: firebase.json
