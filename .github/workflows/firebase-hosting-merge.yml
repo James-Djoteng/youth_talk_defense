@@ -31,4 +31,4 @@ jobs:
           channelId: live
           projectId: youthtalk-b88c4
           entryPoint: firebase
-          working-directory: ./  
+          
