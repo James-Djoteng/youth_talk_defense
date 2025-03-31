@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "youthtalk-b88c4"
-  }
+    "default": "youthtalk-b88c4",
+    "YouthTalk": "youthtalk-b88c4"
+  },
+  "targets": {},
+  "etags": {}
 }
