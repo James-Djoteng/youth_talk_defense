@@ -1,4 +1,4 @@
-// Import the Genkit core libraries and plugins.
+/*// Import the Genkit core libraries and plugins.
 import {genkit, z} from "genkit";
 import {googleAI} from "@genkit-ai/googleai";
 
@@ -71,3 +71,4 @@ export const menuSuggestion = onCallGenkit({
   // Grant access to the API key to this function:
   secrets: [apiKey],
 }, menuSuggestionFlow);
+*/
