@@ -7,6 +7,7 @@ The Youth Talk's initial version is a show, so the Ui is designed to entertain a
 ## Getting Started
 
 - Clone the repo to your local machine in vs code !
+- run flutter pub get to get dependencies (make sure flutter installed on your machine. If you get a package mismatch issue run flutter upgrade to update to the latest version. If you still have the error, read the specific package flutter is pointing out and run fluter pub get package-name(and version if specified. The error should tell you the command you should run to install the package))
 - Choose chrome(web) as your emulator
 - Go to the main.dart file at lib/main.dart
 - Run the app "Without Debugging" / in your terminal run firebase hosting:channel:deploy preview-youthTalk(this will run and test the app so you can test extra feaures apart from ui and front-end adjustments)
